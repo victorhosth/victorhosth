@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Victor Hosth 🖐️
 
 
-!Victorhosth GitHub stats](https://github-readme-stats.vercel.app/api?username=victorhosth&show_icons=true&theme=dracula&count_private=true)
+!fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=victorhosth&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
